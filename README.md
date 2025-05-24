@@ -42,7 +42,7 @@ The CI/CD pipeline involves the following steps:
 
 ## Buid evidence
 [!Diagram](images/Diagram.png)
-[!Jenkins-build](images/Jenkins-build.png) 
+
 
 ## License
 
