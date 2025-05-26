@@ -41,7 +41,7 @@ The CI/CD pipeline involves the following steps:
 - DockerHub account
 - Docker installed on Jenkins server
 
-## Buid evidence
+## Diagram
 ![Diagram](images/Diagram.png)
 
 
