@@ -42,6 +42,6 @@ The CI/CD pipeline involves the following steps:
 - Docker installed on Jenkins server
 
 ## Buid evidence
-[!Diagram](images/Diagram.png)
+![Diagram](images/Diagram.png)
 
 
